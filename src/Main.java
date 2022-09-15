@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args)
     {
         Persona persona = new Persona();
-        persona.setEdad(33);
+        persona.setEdad(34);
         int edad = persona.getEdad();
         persona.setNombre("Gustavo");
         String nombre = persona.getNombre();
